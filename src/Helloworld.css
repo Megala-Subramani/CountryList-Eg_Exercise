@@ -1,0 +1,28 @@
+.HelloworldHeader{
+    height: 40px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+input{
+    width: 15%;
+    height: 36px;
+    font-size: 20px;
+    text-indent: 4px;
+}
+.showList{
+    display:list-item;
+}
+.showDV{
+    display:block;
+    text-align: left;
+    margin-left: 4%;
+    height: 32px;
+    font-size: 20px;
+    font-family: ui-serif;
+    color: red;
+}
+.hideList,.hideDV{
+    display:none;
+}
